@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap" rel="stylesheet">
+
