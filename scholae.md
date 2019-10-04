@@ -4,7 +4,7 @@ title: "Scholæ"
 permalink: /scholae/
 ---
 
-# Scholæ
+# **Scholæ**
 
 ### Omnes horæ pertinent ad spatium trimsestre primum.
 
@@ -21,7 +21,7 @@ permalink: /scholae/
 
 ***
 
-# Classes
+# **Classes**
 
 ### All times are given for the first term.
 

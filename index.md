@@ -5,9 +5,9 @@ title: "Salutatio"
 
 *(English infra)*
 
-# Societas Latinitatis Londiniensis Universitatis Collegii Londiniensis
+# **Societas Latinitatis Londiniensis Universitatis Collegii Londiniensis**
 
-## Salve plurimum!
+## **Salve plurimum!**
 
 Bene venisti in hanc paginam **Societatis Latinitatis Londiniensis**! Discipuli Universitatis Collegii Londiniensis sumus, qui linguam Latinam vivam colimus. Per annum academicum, præbebimus scholas linguæ Latinæ Græcæque et lustrationes locorum præclarorum Londinii ducemus.
 
@@ -17,9 +17,9 @@ Et noli oblivisci nos sequi in Pipiatorio [@UCLlivinglatin](https://twitter.com/
 
 ***
 
-# UCL Living Latin Society
+# **UCL Living Latin Society**
 
-## Greetings!
+## **Greetings!**
 
 Welcome to the **UCL Living Latin Society**! We are students of various kinds at University College London who cultivate Latin and its active use. Throughout the scholastic year, we put on schools of Latin and Greek and even organise excursions – in Latin – to famous sites in London.
 
