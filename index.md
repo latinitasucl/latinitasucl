@@ -5,7 +5,7 @@ title: "Salutatio"
 
 *(English infra)*
 
-# **Societas Latinitatis Londiniensis Universitatis Collegii Londiniensis**
+# **Societas Latinitatis Universitatis Collegii Londiniensis**
 
 ## **Salve plurimum!**
 
