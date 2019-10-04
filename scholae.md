@@ -9,7 +9,7 @@ permalink: /scholae/
 ### Omnes horæ pertinent ad spatium trimsestre primum.
 
 | Schola        | Dies et hora  | Locus |
-| ------------- |:-------------:| -----:|
+| ---------------- |-----------------------| -------------|
 | Schola tironum | Die Lunæ, 15:00 – 16:00 | Conclave G09, Gordon House |
 | Schola peritiorum | Die Veneris, 13:00 – 14:00 | Conclave G09, Gordon House |
 | Schola artis rhetoricæ (et cena, si vis)* | Die Martis, 18:00 – 20:00 | Conclave G09, Gordon House |
