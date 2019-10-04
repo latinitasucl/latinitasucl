@@ -1,10 +1,8 @@
 ---
 layout: page
 title: "Florilegium"
-permalink: /Florilegium/
+permalink: /florilegium/
 ---
-
-# Florilegium
 
 Res dilectas vel utiles, v. gr., textús, pelliculas, híc deponentur.
 ***
